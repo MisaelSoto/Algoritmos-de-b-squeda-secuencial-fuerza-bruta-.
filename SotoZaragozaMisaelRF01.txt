@@ -1,0 +1,18 @@
+SOTO ZARAGOZA MISAEL 
+217446754
+
+REQUIREMONTOS FUNCIONALES LOGRADOS:
+1.- Poder seleccionar imagenes para analizar 
+2.- Mostrar las iamagenes seleccionadas dentro de un picturebox
+3.-Utilizar los eventos de un botón para poder cargar las imágenes.  
+4.- Mostrar gráficamente la identificación de los círculos y mostrar la lista de círculos, con sus
+características: Posición del centro del círculo y radio.
+5.- Ordenas los circulos con respecto a X
+6.- Ordenas los circulos con respecto a Y
+7.- Ordenas los circulos por tamaño (de menor a mayor)
+8.- Manejo de los bitmaps 
+9.- Ordenamiento por bubble sort
+
+REQUIREMONTOS FUNCIONALES NO LOGRADOS:
+1.- Ordemaniento por selection sort
+1.- Ordemaniento por insertion sort
