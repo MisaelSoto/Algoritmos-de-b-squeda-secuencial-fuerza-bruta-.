@@ -1,0 +1,48 @@
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.csproj.AssemblyReference.cache
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.Form1.resources
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.csproj.GenerateResource.cache
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.AssemblyInfoInputs.cache
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.AssemblyInfo.cs
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.csproj.CoreCompileInputs.cache
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\bin\Debug\netcoreapp3.1\SotoZaragozamisaelA01.exe
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\bin\Debug\netcoreapp3.1\SotoZaragozamisaelA01.deps.json
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\bin\Debug\netcoreapp3.1\SotoZaragozamisaelA01.runtimeconfig.json
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\bin\Debug\netcoreapp3.1\SotoZaragozamisaelA01.runtimeconfig.dev.json
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\bin\Debug\netcoreapp3.1\SotoZaragozamisaelA01.dll
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\bin\Debug\netcoreapp3.1\SotoZaragozamisaelA01.pdb
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.dll
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.pdb
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.genruntimeconfig.cache
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.csproj.AssemblyReference.cache
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.Form1.resources
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.csproj.GenerateResource.cache
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.AssemblyInfoInputs.cache
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.AssemblyInfo.cs
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.csproj.CoreCompileInputs.cache
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.dll
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.pdb
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\bin\Debug\netcoreapp3.1\SotoZaragozamisaelA01.exe
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\bin\Debug\netcoreapp3.1\SotoZaragozamisaelA01.deps.json
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\bin\Debug\netcoreapp3.1\SotoZaragozamisaelA01.runtimeconfig.json
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\bin\Debug\netcoreapp3.1\SotoZaragozamisaelA01.runtimeconfig.dev.json
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\bin\Debug\netcoreapp3.1\SotoZaragozamisaelA01.dll
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\bin\Debug\netcoreapp3.1\SotoZaragozamisaelA01.pdb
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SEMINARIO DE ALGORITMIA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.genruntimeconfig.cache
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SSPA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\bin\Debug\netcoreapp3.1\SotoZaragozamisaelA01.exe
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SSPA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\bin\Debug\netcoreapp3.1\SotoZaragozamisaelA01.deps.json
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SSPA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\bin\Debug\netcoreapp3.1\SotoZaragozamisaelA01.runtimeconfig.json
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SSPA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\bin\Debug\netcoreapp3.1\SotoZaragozamisaelA01.runtimeconfig.dev.json
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SSPA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\bin\Debug\netcoreapp3.1\SotoZaragozamisaelA01.dll
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SSPA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\bin\Debug\netcoreapp3.1\SotoZaragozamisaelA01.pdb
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SSPA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.csproj.AssemblyReference.cache
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SSPA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.Form1.resources
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SSPA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.csproj.GenerateResource.cache
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SSPA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SSPA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.AssemblyInfoInputs.cache
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SSPA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.AssemblyInfo.cs
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SSPA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.csproj.CoreCompileInputs.cache
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SSPA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.dll
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SSPA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.pdb
+C:\Users\MEGACHULAVISTA\OneDrive\Documentos\3 er Semestre\SSPA\SotoZaragozamisaelA01\SotoZaragozamisaelA01\SotoZaragozaMisaelCF01\obj\Debug\netcoreapp3.1\SotoZaragozamisaelA01.genruntimeconfig.cache
